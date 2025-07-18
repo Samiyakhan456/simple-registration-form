@@ -3,6 +3,7 @@
 A basic HTML and CSS registration form created as a frontend practice project.
 
 ##  Live Demo
+https://samiyakhan456.github.io/simple-registration-form/
 
 
 ##  Built With
